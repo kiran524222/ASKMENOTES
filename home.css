@@ -1,0 +1,32 @@
+#img1{
+  width: 10%;
+  float: left;
+}
+h1{
+  font-size: 300%;
+  margin:0 auto 0 auto;
+  font-family:serif;
+
+}
+.head{
+    margin:auto 0 auto 0;
+    width: 100%;
+    background-image: radial-gradient(#faf3e0,#f4f9f9,#f6f6f6);
+}
+h2{
+  font-size: 300%;
+  margin:20px auto 0 420px;;
+font-family: 'Lora', serif;
+
+}
+body{
+  background-image: radial-gradient(#faf3e0,#f4f9f9,#f6f6f6);
+}
+#homelogo3{
+  margin: 200px 0 0 0;
+
+  background-color: inherit;
+
+
+
+}
