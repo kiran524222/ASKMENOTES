@@ -1,0 +1,55 @@
+#logo{
+  background-color: #1e212d;
+}
+.first{
+  padding-left: 30%;
+}
+
+body{
+  background-image:repeating-radial-gradient(#ccf2f4,#a4ebf3);
+}
+#homelogo1{
+  position: absolute;
+  top: 750px;
+  margin-left: 4%;
+  height: 30%;
+  width: 25%;
+
+
+
+}
+#booklogo{
+
+  height: 7%;
+  width: 5%;
+  position: absolute;
+  right: 38%;
+  bottom:57%;
+
+
+
+
+}
+#homelogo2{
+  position: absolute;
+  right:50px;
+  top: 650px;
+  margin-right: 1%;
+  height:60%;
+  width: 40%;
+
+
+}
+#sitename{
+  text-align: center;
+  padding-bottom: 6%;
+  font-style:obliquec;
+  font-size: 20px;
+  font-family: cursive;
+
+}
+h1{
+  font-size: 25px;
+  text-decoration: underline;
+font-family: 'Hammersmith One', sans-serif;
+}
