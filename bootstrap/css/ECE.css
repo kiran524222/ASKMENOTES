@@ -3,12 +3,12 @@ body{
 }
 h1{
   text-align: center;
-  padding-top: 2%;
+  padding-top: 5%;
 }
 #ecelogo
 {
 padding-left: 32%;
-  padding-top:10%;
+padding-top: 5%;
 
 
 }
@@ -17,17 +17,18 @@ padding-left: 32%;
   height: 60%;
 }
 .button{
-  padding: 20%;
+  padding: 40%;
   border: 20px;
 }
 .first{
   position: absolute;
-  top: 50%;
+  top: 40%;
   padding-left: 3%;
+
 }
 .second{
   position: absolute;
   right: 10%;
-  top: 50%;
+  top: 40%;
   padding-left: 3%;
 }
