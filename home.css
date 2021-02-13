@@ -13,6 +13,9 @@ body{
   top: 800px;
   left: 0.2%;
   width: 25%;
+    float: left;
+
+  
 
 
 
@@ -40,6 +43,8 @@ body{
   top: 650px;
   width: 30%;
   height: 20%;
+    float: right;
+
 
 
 
