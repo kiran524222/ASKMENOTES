@@ -1,7 +1,32 @@
 body{
-  background-image:repeating-radial-gradient(#f5f4f4);
+  background-image:radial-gradient(#c6ebc9,#f5f4f4);
 }
 h1{
   text-align: center;
-  padding-top: 3%;
+  padding-top: 2%;
+}
+#ecelogo
+{
+padding-left: 32%
+
+
+}
+#ecelogoid{
+  width: 50%;
+  height: 60%;
+}
+.button{
+  padding: 20%;
+  border: 20px;
+}
+.first{
+  position: absolute;
+  top: 50%;
+  padding-left: 3%;
+}
+.second{
+  position: absolute;
+  right: 10%;
+  top: 50%;
+  padding-left: 3%;
 }
