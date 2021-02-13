@@ -10,7 +10,7 @@ body{
 }
 #homelogo1{
   position: absolute;
-  top: 800px;
+  top: 700px;
   left: 0.2%;
   width: 25%;
     float: left;
@@ -40,7 +40,7 @@ body{
 #homelogo2{
   position: absolute;
   right:0.2%;
-  top: 650px;
+  top: 620px;
   width: 30%;
   height: 20%;
     float: right;
