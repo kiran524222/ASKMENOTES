@@ -1,0 +1,32 @@
+h1{
+  color: black;
+  font-style:italic;
+  font-family: trebuchet MS;
+  text-align: center;
+  font-size: 70px;
+}
+h2{
+  text-align: center;
+  font-size: 45px;
+}
+body{
+  background-image: radial-gradient(#ffe5b9,#ff4646);
+}
+marquee{
+  font-size: 22px;
+  font-style:italic;
+  color: white;
+}
+div1{
+     padding-bottom:50px;
+}
+#im{
+  padding-bottom: 30px;
+  width: 30%;
+  height: 15%;
+  margin: 0 auto 0 auto;
+}
+h5{
+  text-align: right;
+  font-style: italic;
+}

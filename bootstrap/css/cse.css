@@ -1,0 +1,30 @@
+h1{
+  color: #e3f3f7;
+  font-style:italic;
+  font-family: trebuchet MS;
+  text-align: center;
+  font-size: 70px;
+}
+body{
+  background-image: radial-gradient(#d6d2c4,#486989);
+}
+marquee{
+  font-size: 25px;
+  font-style:italic;
+  color:#070739 ;
+}
+div1{
+     padding-top: 50px;
+}
+#im{
+  width: 30%;
+  height: 25%;
+  margin: 0 auto 0 auto;
+}
+h6{
+  text-align: right;
+  font-style: italic;
+}
+.card{
+  background-color: #59748c;
+}
