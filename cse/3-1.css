@@ -1,0 +1,42 @@
+h1{
+  text-align: center;
+  padding-top: 0%;
+  color: #23120b;
+}
+body{
+}
+#dbms{
+  background-image: radial-gradient(#eaffd0,#faf3e0);
+
+}
+h2{
+  padding-bottom:2.5%;
+  padding-top:2.5%;
+}
+#heading{
+  background-image: radial-gradient(#eaffd0,#f4f9f9);
+
+
+}
+#cn{
+  background-image: radial-gradient(#eaffd0,#faf3e0);
+
+
+}
+#os{
+  background-image: radial-gradient(#eaffd0,#faf3e0);
+
+}
+#ai{
+  background-image: radial-gradient(#eaffd0,#faf3e0);
+
+}
+#daa{
+  background-image: radial-gradient(#eaffd0,#faf3e0);
+
+}
+#dev{
+  position: absolute;
+  right: 0%;
+  background-color: #e8efeb;
+}
