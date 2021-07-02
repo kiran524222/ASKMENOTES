@@ -54,7 +54,7 @@ body{
   padding-bottom: 6%;
   font-style:obliquec;
   font-size: 20px;
-  font-family: cursive;
+ font-family: 'Hammersmith One', sans-serif;
 
 }
 h1{
@@ -64,7 +64,7 @@ font-family: 'Hammersmith One', sans-serif;
 }
 p{
   font-size:40px;;
-  font-family: cursive;
+  font-family: 'Hammersmith One', sans-serif;
 }
 
 #kir{
