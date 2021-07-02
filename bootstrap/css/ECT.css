@@ -6,7 +6,7 @@ h3{
   font-size: 70px;;
 }
 body{
-  background-image: radial-gradient(#F5F7B2,#1CC5DC);
+  background-image: radial-gradient(#1CC5DC,#F5F7B2);
 }
 marquee{
   font-size: 22px;
