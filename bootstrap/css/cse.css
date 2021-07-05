@@ -13,7 +13,7 @@ h3{
   font-size: 50px;
 }
 body{
-  background-image: radial-gradient(#d6d2c4,#81cbc8);
+  background-image: radial-gradient(#00EAD3,#FFF5B7);
 }
 marquee{
   font-size: 25px;
@@ -33,5 +33,5 @@ h6{
   font-style: italic;
 }
 .card{
-  background-color: #29a19c;
+  background-color:  #00917C;
 }
