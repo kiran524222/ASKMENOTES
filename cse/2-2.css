@@ -4,16 +4,15 @@ h1{
   color: #23120b;
 }
 body{
-   background-image: linear-gradient(#FFF7AE,#FFE459,#FDF5CA);
-   background-size: cover;
+  background-image: linear-gradient(#FFF7AE,#C2F784,#FDF5CA);
+  background-size: cover;
 }
 
 h2{
   padding-bottom:2.5%;
   padding-top:2.5%;
 }
-#heading{
-  background-image: radial-gradient(#f8a1d1,#ccf2f4);
+
 
 
 }
