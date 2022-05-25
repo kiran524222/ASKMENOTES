@@ -1,73 +1,72 @@
-#logo{
-  background-color: #1e212d;
-}
-.first{
-  padding-left: 26%;
-}
-
-body{
-  background-image:repeating-radial-gradient(#ccf2f4,#a4ebf3);
-}
-#homelogo1{
-  position: absolute;
-  top: 900px;
-  left: 0.2%;
-  width: 25%;
-    float: left;
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
   
+  .navbar {
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(121, 131, 95);
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(175, 173, 173, 0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    float: none;
+    color: whitesmoke;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: rgb(20, 19, 19);
+  }
 
-
-
-}
-#booklogo{
-  position: absolute;
-  left: 8%;
-
-
-
-
-
-
-}
-#booklogoid
-{
-  height: 7%;
-  width:5%;
-}
-
-
-#homelogo2{
-  position: absolute;
-  right:0.2%;
-  top: 780px;
-  width: 30%;
-  height: 20%;
-    float: right;
-
-
-
-
-}
-#sitename{
-  text-align: center;
-  padding-bottom: 6%;
-  font-style:obliquec;
-  font-size: 20px;
- font-family: 'Hammersmith One', sans-serif;
-
+  .dropdown:hover .dropdown-content {
+display: block;
 }
 h1{
-  font-size: 25px;
-  text-decoration: underline;
-font-family: 'Hammersmith One', sans-serif;
+    text-align: center;
+    text-transform: var(#0a0a0a);
+    color: rgb(230, 5, 5);
+    font: 1em sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
 }
-p{
-  font-size:40px;;
-  font-family: 'Hammersmith One', sans-serif;
-}
-
-#kir{
-  font-size: 10px;
-  font-family: 'Hammersmith One', sans-serif;
+a{
+  color: black;
 }
